@@ -1,2 +1,3 @@
 # ProjectROS
-ROS modules for RC car
+
+See [our wiki page](https://guitar.ucsd.edu/maeece148/index.php/Project_ROS) for details.
